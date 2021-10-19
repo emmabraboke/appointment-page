@@ -26,6 +26,7 @@ border-radius: 0 0 100% 0;
 
 
 #book{
+    positon:relative;
     background-image: url("../images/appointment-img/Rectangle3.png");
     background-size: 100% 10em;
     background-position: center;
