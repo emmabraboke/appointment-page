@@ -4,6 +4,10 @@
     box-sizing: border-box;
 }
 
+html,body{
+      overflow-x: hidden;
+}
+
 /* first nav container styling start */
 
 a:link{
